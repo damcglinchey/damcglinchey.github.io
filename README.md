@@ -3,7 +3,8 @@
 #### Technical Skills: Python, SQL
 
 ## Education
-Ph. D. Physics | Florida State University (_Dec 2012_)
+- Ph. D., Physics | Florida State University (_2012_)
+- B.S., Physics | Ursinus College (_2007_)
 
 ## Work Experience
 - Seagate Technology | Sr. Data Scientist (_Apr 2021_ - _Present_)
